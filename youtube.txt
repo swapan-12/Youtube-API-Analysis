@@ -1,0 +1,43 @@
+﻿Create table youtube_(
+video_id VARCHAR(40),
+channelTitle VARCHAR(40),
+title VARCHAR(70),
+tags VARCHAR(170),
+publishedAt date,
+viewCount FLOAT,
+likeCount FLOAT,
+favouriteCount FLOAT,
+commentCount FLOAT,
+duration text,
+definition VARCHAR(40),
+caption VARCHAR(40),
+pushblishDayName VARCHAR(40),
+durationSecs FLOAT,
+tagCount VARCHAR(170),
+title_stopwords VARCHAR(170)
+)
+
+LOAD DATA LOCAL INFILE '/Users/swapanpreetkaur/Documents/projects/youtube_api/techtrek.csv'
+INTO TABLE youtube_
+FIELDS TERMINATED BY ','
+ENCLOSED BY '"'
+LINES TERMINATED BY '\n'
+IGNORE 1 LINES; 
+
+SELECT SUM(viewCount) total_views from youtube_
+
+SELECT SUM(likeCount) total_likes from youtube_
+
+SELECT SUM(commentCount) total_comments from youtube_
+
+SELECT AVG(durationSecs) average_duration from youtube_
+
+SELECT DISTINCT(tags) unique_tags from youtube_
+
+SELECT AVG(tagCount) average_tagcount from youtube_
+
+SELECT AVG(ViewCount) average_views from youtube_
+
+SELECT DISTINCT(definition) unique_definitions from youtube_
+
+SELECT DISTINCT(COUNT(publishedAT)) videos_published FROM youtube_
