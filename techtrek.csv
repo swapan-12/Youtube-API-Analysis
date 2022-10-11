@@ -1,0 +1,129 @@
+video_id,channelTitle,title,description,tags,publishedAt,viewCount,likeCount,favouriteCount,commentCount,duration,definition,caption,publishDayName,durationSecs,tagCount,title_stopwords
+DnkxaEgen0E,TechTrek by Keith Galli,How to Change your Jupyter Notebook Theme (Dark Theme!!),"In this video we walk through one additional Python Jupyter Notebook tip (how to change your default theme colors). In this video we use jupyterthemes to switch to a Monokai theme.
+
+If you want to learn some additional tips & tricks, check out the video I posted on my main channel!
+https://youtu.be/YuWZNV4BkkY
+
+Source code:
+https://github.com/KeithGalli/Data-Science-Tips/tree/master/jupyter-notebook-tips
+
+Shout out to @Algovibes who demoed this feature in his Jupyter Notebook tutorial: https://youtu.be/AUQT0MKpf6Y
+-------------------------
+Follow me on social media!
+Instagram | https://www.instagram.com/keithgalli/
+Twitter | https://twitter.com/keithgalli
+TikTok | https://tiktok.com/@keithgalli
+
+-------------------------
+If you are curious to learn how I make my tutorials, check out this video: https://youtu.be/LEO4igyXbLs
+
+Practice your Python Pandas data science skills with problems on StrataScratch!
+https://stratascratch.com/?via=keith
+
+Join the Python Army to get access to perks!
+YouTube - https://www.youtube.com/channel/UCq6X...
+Patreon - https://www.patreon.com/keithgalli
+
+*I use affiliate links on the products that I recommend. I may earn a purchase commission or a referral bonus from the usage of these links.","['Keith Galli', 'TechTrek', 'python 3', 'python3', 'programming', 'data science', 'data analytics', 'tech trek', 'tech', 'jupyter', 'jupiter', 'dark theme', 'dark theme jupyter', 'monokai theme jupyter', 'jupyterthemes', 'jt', 'python programming', 'data', 'machine learning', 'deepnote', 'google colab', 'ipython', 'ipython notebook', 'TechTrek by Keith Galli', 'techtrekbykeithgalli']",2022-06-01 03:37:38+00:00,5099.0,86.0,,14.0,PT5M14S,hd,false,Wednesday,314.0,25,"['How', 'Change', 'Jupyter', 'Notebook', 'Theme', '(Dark', 'Theme!!)']"
+l34l-90UF7U,TechTrek by Keith Galli,How to work with big data files (5gb+) in Python Pandas!,"In this video, we quickly go over how to work with large CSV/Excel files in Python Pandas. Instead of trying to load the full file at once, you should load the data in chunks. This is especially useful for files that are a gigabyte or larger. Let me know if you have any questions :).
+
+Source code on Github:
+https://github.com/KeithGalli/Data-Science-Tips/tree/master/big-files-in-pandas
+
+Raw data used (from Kaggle):
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+I want to start uploading data science tips & exercises to this channel more frequently. What should I make videos on??
+
+-------------------------
+Follow me on social media!
+Instagram | https://www.instagram.com/keithgalli/
+Twitter | https://twitter.com/keithgalli
+TikTok | https://tiktok.com/@keithgalli
+
+-------------------------
+If you are curious to learn how I make my tutorials, check out this video: https://youtu.be/LEO4igyXbLs
+
+Practice your Python Pandas data science skills with problems on StrataScratch!
+https://stratascratch.com/?via=keith
+
+Join the Python Army to get access to perks!
+YouTube - https://www.youtube.com/channel/UCq6X...
+Patreon - https://www.patreon.com/keithgalli
+
+*I use affiliate links on the products that I recommend. I may earn a purchase commission or a referral bonus from the usage of these links.
+
+-------------------------
+Video timeline!
+0:00 - Overview
+1:25 - What not to do.
+2:16 - Python code to load in large CSV file (read_csv & chunksize)
+8:00 - Finalizing our data","['keith galli', 'techtrek', 'python3', 'python programming', 'python pandas', 'pandas', 'big data', 'large data', 'databases', 'CSV', 'excel files', 'read_csv', 'python 3', 'data science', 'data analytics', 'analytics', 'python tips', 'pandas tips', 'numpy', 'data analysis', 'pandas library', 'python data science', 'data', 'kaggle', 'real world data science', 'real world problems']",2022-05-17 13:01:27+00:00,5617.0,387.0,,30.0,PT11M20S,hd,false,Tuesday,680.0,26,"['How', 'work', 'big', 'data', 'files', '(5gb+)', 'Python', 'Pandas!']"
+OkEoPIOwvhg,TechTrek by Keith Galli,Solving an Amazon Data Science Interview Question in Python Pandas (medium difficulty),"Today's problem!
+https://platform.stratascratch.com/coding-question?id=9915&python=1&via=keith
+
+StrataScratch 9915 - Highest Cost Orders (Amazon | Medium Difficulty)
+
+In this video, we solve another data science interview question on the StrataScratch platform using Python Pandas. In this problem we use functions such as merge, groupby, datetime filtering, and sorting.
+
+If you enjoyed this video, don't forget to throw it a like and subscribe to not miss any future uploads!
+
+-------------------------
+Follow me on social media!
+Instagram | https://www.instagram.com/keithgalli/
+Twitter | https://twitter.com/keithgalli
+
+-------------------------
+If you are curious to learn how I make my tutorials, check out this video: https://youtu.be/LEO4igyXbLs
+
+Code faster & smarter with Kite's free AI-powered coding assistant! (download link)
+https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=keithgalli&utm_content=description-only
+
+*I use affiliate links on the products that I recommend. I may earn a purchase commission or a referral bonus from the usage of these links.","['data science', 'data analytics', 'data analysis', 'python', 'python programming', 'python 3', 'python pandas', 'pandas', 'panda', 'pandas library', 'data visualization', 'data science interview', 'data science interview question', 'medium difficulty', 'interview question', 'python interview', 'practice python pandas', 'pandas problems', 'python practice problems', 'machine learning']",2021-03-27 21:52:16+00:00,15661.0,469.0,,37.0,PT15M51S,hd,false,Saturday,951.0,20,"['Solving', 'Amazon', 'Data', 'Science', 'Interview', 'Question', 'Python', 'Pandas', '(medium', 'difficulty)']"
+O93pViG5ITU,TechTrek by Keith Galli,Facebook Data Science Interview Questions with Python Pandas (Easy difficulty),"Top Search Results (problem #1):
+https://platform.stratascratch.com/coding-question?id=10288&python=1&via=keith
+
+Popularity of Hack (problem #2):
+https://platform.stratascratch.com/coding-question?id=10061&python=1&via=keith
+
+Link to StrataScratch platform:
+https://stratascratch.com/?via=keith
+
+In this video, we solve a couple of data science interview questions using Python Pandas. Both of the problems that we solve in this video come from Facebook and have an easy difficulty. Some of the specific Pandas skills used in this video are filtering, join, and groupby.
+
+If you want to learn more about the basics of the Pandas library, check out this video:
+https://youtu.be/vmEHCJofslg
+
+Video timeline!
+0:00 - Introduction
+0:41 - Top Search Results (problem #1)
+7:31 - Popularity of Hack (problem #2)
+
+-------------------------
+Follow me on social media!
+Instagram | https://www.instagram.com/keithgalli/
+Twitter | https://twitter.com/keithgalli
+
+-------------------------
+If you are curious to learn how I make my tutorials, check out this video: https://youtu.be/LEO4igyXbLs
+
+Code faster & smarter with Kite's free AI-powered coding assistant! (download link)
+https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=keithgalli&utm_content=description-only
+
+*I use affiliate links on the products that I recommend. I may earn a purchase commission or a referral bonus from the usage of these links.","['keith galli', 'python', 'python programming', 'pandas', 'pandas library', 'python 3', 'python pandas', 'groupby', 'filtering', 'join', 'data science', 'data science interview questions', 'data analysis', 'software interview', 'facebook data science', 'python practice', 'panda', 'data science python', 'pandas practice', 'data science problems', 'problems', 'data science interviews', 'data science practice interview', 'machine learning', 'artificial intelligence', 'easy python pandas', 'simple', 'real world data science', 'real world']",2021-03-16 13:00:05+00:00,7811.0,296.0,,40.0,PT16M54S,hd,false,Tuesday,1014.0,29,"['Facebook', 'Data', 'Science', 'Interview', 'Questions', 'Python', 'Pandas', '(Easy', 'difficulty)']"
+Lxj4QeQhvlY,TechTrek by Keith Galli,"Hello, world!","Just a short video about the new channel. What to expect and why I created it!
+
+This video was originally uploaded on January 24, 2021 and was posted once this channel hit 1000 subscribers!
+
+-------------------------
+Follow me on social media!
+Instagram | https://www.instagram.com/keithgalli/
+Twitter | https://twitter.com/keithgalli
+
+-------------------------
+If you are curious to learn how I make my tutorials, check out this video: https://youtu.be/LEO4igyXbLs
+
+Code faster & smarter with Kite's free AI-powered coding assistant! (download link)
+https://www.kite.com/get-kite/?utm_medium=referral&utm_source=youtube&utm_campaign=keithgalli&utm_content=description-only
+
+*I use affiliate links on the products that I recommend. I may earn a purchase commission or a referral bonus from the usage of these links.","['python', 'programming', 'data science', 'python 3', 'coding', 'data analysis', 'machine learning', 'ai']",2021-03-15 03:02:58+00:00,1634.0,134.0,,37.0,PT6M40S,hd,false,Monday,400.0,8,"['Hello,', 'world!']"
